@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-paypal-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jaisw
+Implementation-Vendor-Id: com.javatechie
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-paypal-example
+Created-By: Maven Integration for Eclipse
+
